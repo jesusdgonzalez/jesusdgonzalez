@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Libros
-tagline:          'A Jekyll theme'
-description:      'Menu principal'
+tagline:          'Libros Jesús González Llorente'
+description:      'Libros sobre energía solar y sistemas de energía para satélites'
 url:              https://jesusdgonzalez.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
