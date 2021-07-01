@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LibroEnergia
+title: Acerca de
 sidebar_link: true
 ---
 
