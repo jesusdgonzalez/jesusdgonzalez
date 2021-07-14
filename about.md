@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Acerca de
+title: Acerca de...
 sidebar_link: true
 ---
 
 <p class="message">
-  Hola! Empecemos!
+  Bienvenidos!
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Los libros publicados en este sitio web son el resultado de la experiencia como ingeniero, docente e investigador.
+
+Jesús D. González Llorente
