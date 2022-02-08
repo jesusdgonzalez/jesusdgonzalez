@@ -11,7 +11,10 @@ excerpt_separator:  <!--more-->
 
 [Ver capítulos de muestra](energía-solar.html)
 
-<span style="background-color:yellow">Compra en línea la versión impresa de alta calidad </span> [aquí ](https://www.autoreseditores.com/libro/18954/jesus-gonzalez-llorente-y-sergio-sanchez-sanjuan/introduccion-a-la-energia-solar.html)
+[Compra en línea la versión impresa de alta calidad en Amazon ](https://www.amazon.com/dp/9584926365)
+
+[También aquí ](https://www.autoreseditores.com/libro/18954/jesus-gonzalez-llorente-y-sergio-sanchez-sanjuan/introduccion-a-la-energia-solar.html)
+
 
 Citar como:
 González-Llorente, J., & Sánchez Sanjuán, S. (2021). Introducción a la energía solar: Sistemas fotovoltaicos de baja potencia (1st ed.). Bogotá D.C: JDGL.
